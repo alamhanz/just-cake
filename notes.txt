@@ -1,1 +1,3 @@
 https://atapdata.ai/dataset/257/Kue_Indonesia
+https://medium.com/analytics-vidhya/how-to-install-tensorflow-cuda-toolkit-and-cudnn-on-windows-10-9efa075b448c
+https://medium.com/lsc-psd/tensorflow-2-1-doesnt-seem-to-see-my-gpu-even-though-cuda-10-1-with-solution-7b44297843a
