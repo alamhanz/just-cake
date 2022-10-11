@@ -17,5 +17,5 @@ The best model is `just_cake_model-colab6_2.h5`.
 ## Reference
 
 * [atap data dataset](https://atapdata.ai/dataset/257/Kue_Indonesia)
-* [My Model Artifact](https://drive.google.com/drive/folders/1cWNn6v8bKj-XdqzeFFO4I3ohSVeW55ze?usp=sharing)
+* [My Model Artifact](https://console.cloud.google.com/storage/browser/public-artifact/just-cake)
 * [Story of Modelling](https://alamhanz.medium.com/sekedar-kue-kue-3a56857d8830)
